@@ -1,0 +1,3 @@
+Tên: Trần Nhật Minh (1)
+Lớp: BC36
+Bài tập capstone bootstrap làm đề số 1 gồm các trang sau: Home, About, Services
